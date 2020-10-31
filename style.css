@@ -18,12 +18,6 @@ body {
   text-align: center;
 }
 
-#Grad {
-  background: rgb(162,147,166);
-background-image: linear-gradient(0deg, rgba(162,147,166,1) 0%, rgba(255,255,255,1) 100%);
-  padding: .1px;
-}
-
 .tab{
   overflow: hidden;
   border: 1px solid #ccc;
@@ -54,4 +48,7 @@ background-image: linear-gradient(0deg, rgba(162,147,166,1) 0%, rgba(255,255,255
   padding: 6px 12px;
   border: 1px solid #ccc;
   border-top: none;
+    background: rgb(162,147,166);
+background-image: linear-gradient(0deg, rgba(162,147,166,1) 0%, rgba(255,255,255,1) 100%);
+  padding: .1px;
 }
