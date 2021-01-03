@@ -35,6 +35,8 @@ body {
   font-size: 17px;
 }
 
+.tablinks {width: 33%;}
+
 .tab button:hover {
   background-color: #ccc
 }
